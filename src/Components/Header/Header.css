@@ -1,0 +1,28 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 104px;
+  height: 100%;
+  background-color: #1F1D2B;
+}
+
+.logo-div {
+  margin-top: 35px; 
+}
+
+.head-ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.home {
+  margin-top: 26px;
+  margin-left: 10px;
+  position: relative;
+}
+
+.head-ul li {
+  list-style: none;
+}
